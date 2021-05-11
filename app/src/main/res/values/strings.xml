@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lottery</string>
+    <string name="addNumber">번호 추가하기</string>
+    <string name="clearNumber">초기화</string>
+    <string name="autoMake">자동 생성하기</string>
+
 </resources>
